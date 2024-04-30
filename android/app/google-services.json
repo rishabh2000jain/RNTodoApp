@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599137756649",
+    "project_id": "offline-first-todo",
+    "storage_bucket": "offline-first-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599137756649:android:8e9a9d42439823db37d778",
+        "android_client_info": {
+          "package_name": "com.rn.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKp0kl_L87GTusHvdhHL4F22J5dduUYcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
